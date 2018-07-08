@@ -1,0 +1,31 @@
+0: IVR structure
+	Interactive Voice Response
+	Speech/input recognition software
+	Usually phone reception at large businesses
+1: LESS/SASS
+	CSS preprocessors
+	Adds more programmable options to the stylesheets, including variables, functions, and objects
+2: MVVM
+	Model-View-ViewModel
+	Implementation of User Interface that allows for Unit Testing of the backend code
+	Seperates complex code from the front end, allowing for individual unit testing
+	Model and ViewModel can be shared between platforms, View code needs to be done specifically for each platform(Windows vs Android vs iOS)
+3: DOM manipulation
+	Document Object Model
+	Adjusting the Model of a loaded web page in a browser
+	Javascript that changes webpage contents
+4: GIS API
+	Geographic Information System
+	Compiling and tracking location data collected from users
+5: Sitecore Platform
+	Customer Experience management company
+	Tracks how customers interact with a given company
+6: RESTful API 
+	REprestentational State Transfer
+	Breaks down interations between applications into small specialized modules
+7: RDBMS 
+
+8: PCI DSS
+
+9: UX/UI
+	
