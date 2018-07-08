@@ -24,8 +24,12 @@
 	REprestentational State Transfer
 	Breaks down interations between applications into small specialized modules
 7: RDBMS 
-
+	Relational Database Management System
+	Oracle and MySQL Databases
 8: PCI DSS
-
+	Payment Card Industry
+	Credit/Debit Card Data security standard that aims to reduce or eliminate CC data theft
 9: UX/UI
-	
+	User eXperiance/User Interface
+	UI is that design that the user sees in a browser or application
+	UX is how the backend handles data and delivers it to the UI
