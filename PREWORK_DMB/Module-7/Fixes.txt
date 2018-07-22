@@ -1,0 +1,8 @@
+Prework Module 7
+Added h1 to title
+Corrected indentations on Instructions 
+Broke up About paragraph to match Grumpy Cat
+img on line 55 not correctly formatted<>
+Fixed <div> indentations throughout
+List was missing  <li></li>
+Swapped Grow/Shrink and Color buttons to the correct placement and selectors
