@@ -1,0 +1,8 @@
+Class daily schedule
+	-Set objectives
+	-Brief lecture
+	-Coding demo
+	-Code discussion
+	-In-class programming
+	-Project work
+	
