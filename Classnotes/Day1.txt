@@ -1,0 +1,21 @@
+Class daily schedule
+	-Set objectives
+	-Brief lecture
+	-Coding demo
+	-Code discussion
+	-In-class programming
+	-Project work
+	
+We are focusing on React.js over Angular
+
+gitbash commands
+	-pwd displays current directory
+	-cd change directory
+	-ls look around in target directory
+	-mkdir <name> creates new folder with name <name>
+	-touch <name> creates files named <name>
+	-rm <name> deletes a file
+	-rm -rf <folder name> deletes a folder
+	-open <name> opens file with default programming
+	-explorer . opens current folder in explorer
+	
