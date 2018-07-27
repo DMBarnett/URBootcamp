@@ -1,0 +1,15 @@
+Homework
+	-Comes from Gitlab
+	-Due Weekly
+	
+Git
+	-Version control
+	-Highly popular
+	-Allows version control privately and publicly
+	-Version history allows for resetting if code gets broken
+	
+How to git
+	-Always pull first before making changes
+	-VSC will highlight differences
+	-Always include a message
+	
