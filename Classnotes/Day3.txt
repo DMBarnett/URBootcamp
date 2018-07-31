@@ -1,0 +1,41 @@
+Homework and other assignments are the most Important learning exercise
+Push your comfort zone, otherwise you won't learn
+It's fine to have to relearn technique, so long as you know there is a technique
+cd ../ moves up a directory
+cd ~ goes to the root
+
+CSS
+	-Margin, Border, Padding is the order an element is surrounded in
+	
+Floating
+	-float determines how elements flow around eachother
+	-Can set elements in line, on top of, beside , etc
+	-Block vs Inline
+		-block will always fill the entire width of the page
+		-next block will appear below, not beside the first
+		-Inline wraps beside eachother
+		-Inline fills all space
+	-Once an element is floated, it will auto fill next to it
+	-Sometimes we have to clear the float to avoid awkward styling
+	-Really need to study up and learn Float, overflow, clear, etc.
+	 
+Positioning
+	-Static is default
+		-Lack of css
+	-Relative
+		-Set position based on normal(static) postition
+		-Moves based on static position
+	-Absolute
+		-Position based on parent
+	-Fixed
+		-Coordinates set to browser window
+	-Z index
+		-Layering elements
+		-Higher Z is on top
+	-Display: none
+		-Hides element
+		
+Auto-margin
+	-margin:0 auto;
+	-centers div in another div, usually the wrapper
+	
