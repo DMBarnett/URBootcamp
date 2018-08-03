@@ -1,0 +1,23 @@
+Typography
+	-Character of the text on the page
+	-Line height, Font size, Letter spacing, Font Style, etc.
+	-Using containers to limit line length
+	-Font size
+		-rem vs em
+		-em based on parent
+		-rem based on html base size
+	-
+
+Pseudo-Classes
+	-special states of html items, hover, clicked, etc
+	-also can select children in order or in weird sequences
+	-Main states
+		-Default
+		-Hover
+		-Focus
+		-Active/on click
+		-Visited
+	-Nth selector
+		-p:nth-of-type(X){} selects the Xth p tag
+
+Basic of Twitter-Bootstrap

@@ -1,0 +1,9 @@
+HTML semantics
+	-HTML5 introduced new containers that could replace <div>
+	-Aimed at helping css or other languages that read a page see what you have
+	-Remember that HTML and CSS are cascading
+		-They use the bottom most file or command when rendering the page
+	-Need to ensure cross browser compatability
+	-Reset.css
+		-Deletes all defaults when webpage loaded into different browsers
+		-Normalize.css will work as well
