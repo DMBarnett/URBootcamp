@@ -1,0 +1,19 @@
+Using bootstrap
+	-Helps massivley with the css
+	-Preassigned classes that set up the css for you
+	-Its best to add your own css stylesheet after you load in a framework to tweak you page
+	
+Designing a page
+	-It is useful to grid sketch out the page before building it
+	-Plan both for desktop, mobile, and small screen
+	-Align elemets in relation to eachother and to the page
+	-Some resources available for drawing out the project
+		-framebox.org
+		-blueprintcss.io
+	-Good idea to put text that follows image into the same row/div for alingment issues
+	-Use sub-rows and -columns to align smaller elements
+	-Bootstrap grid
+		-Containers have Rows have Columns
+	-Navbar
+		-Similar to rows, can adjust when it jumps to hamburger
+		
