@@ -1,0 +1,3 @@
+Javascript
+	-We will use JS5 for the moment,
+	-JS6 and up are going to use type defining variables.
